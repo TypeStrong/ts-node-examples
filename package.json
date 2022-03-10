@@ -1,12 +1,13 @@
 {
   "name": "ts-node-npx-example",
-  "bin": "cli.ts",
   "version": "1.0.0",
+  "type": "module",
+  "bin": "npx.cjs",
   "dependencies": {
     "clipanion": "latest",
     "ts-node": "latest",
     "@swc/core": "latest",
     "@swc/helpers": "latest",
-    "@tsconfig/node16": "latest"
+    "@tsconfig/node16-strictest-esm": "latest"
   }
 }
