@@ -1,4 +1,4 @@
-#!/usr/bin/env -S npx ts-node-esm
+#!/usr/bin/env -S npx ts-node --esm
 
 import {Cli, Command, Builtins, Option} from 'clipanion';
 
