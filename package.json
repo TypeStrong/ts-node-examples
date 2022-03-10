@@ -4,10 +4,11 @@
   "type": "module",
   "bin": "npx.cjs",
   "dependencies": {
-    "clipanion": "latest",
-    "ts-node": "latest",
     "@swc/core": "latest",
     "@swc/helpers": "latest",
-    "@tsconfig/node16-strictest-esm": "latest"
+    "@tsconfig/node16-strictest-esm": "latest",
+    "clipanion": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
   }
 }
