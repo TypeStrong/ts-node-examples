@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-npx-example",
+  "name": "npx",
   "version": "1.0.0",
   "type": "module",
   "bin": "npx.cjs",
