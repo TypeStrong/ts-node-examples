@@ -1,4 +1,6 @@
 {
+  "name": "ts-node-examples",
+  "private": true,
   "workspaces": [
     "npx"
   ]
