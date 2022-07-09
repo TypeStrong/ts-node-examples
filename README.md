@@ -1,10 +1,10 @@
 # ts-node examples
 
-Samples projects using ts-node.  When in doubt, copy these to start a new ts-node project.
+Examples of configuring a project for ts-node.
 
 *Note: all samples assume you are using recent versions of node and typescript.*
 
-*Don't see your use-case?  Submit a pull request adding it.*
+> Don't see your use-case?  Submit a pull request adding it.
 
 ## Table of Contents
 
