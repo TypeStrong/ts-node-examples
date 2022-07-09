@@ -1,14 +1,5 @@
 {
-  "name": "ts-node-npx-example",
-  "version": "1.0.0",
-  "type": "module",
-  "bin": "npx.cjs",
-  "dependencies": {
-    "@swc/core": "latest",
-    "@swc/helpers": "latest",
-    "@tsconfig/node16-strictest-esm": "latest",
-    "clipanion": "latest",
-    "ts-node": "latest",
-    "typescript": "latest"
-  }
+  "workspaces": [
+    "npx"
+  ]
 }

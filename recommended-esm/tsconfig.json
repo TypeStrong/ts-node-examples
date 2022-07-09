@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+    "ts-node": {
+        "swc": true,
+        "esm": true,
+        "experimentalResolver": true
+    },
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext"
+    }
+}
