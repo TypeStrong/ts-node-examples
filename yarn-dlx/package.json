@@ -1,0 +1,15 @@
+{
+  "name": "npx",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": "bin.cjs",
+  "preferUnplugged": true,
+  "dependencies": {
+    "@swc/core": "latest",
+    "@swc/helpers": "latest",
+    "@tsconfig/node16-strictest-esm": "latest",
+    "clipanion": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
