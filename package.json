@@ -1,8 +1,5 @@
 {
   "name": "ts-node-examples",
   "version": "1.0.0",
-  "private": true,
-  "workspaces": [
-    "yarn-dlx"
-  ]
+  "private": true
 }

@@ -15,7 +15,3 @@ Recommended project configuration when you do not need native ESM support.
 ### [recommended-esm](./recommended-esm)
 
 Recommended project configuration when you need native ESM support.
-
-### [npx](./npx)
-
-Example of writing a script to be executed via npx, hosted on Github, without any extra precompilation or publication steps.
