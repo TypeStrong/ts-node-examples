@@ -2,7 +2,8 @@
   "name": "npx",
   "version": "1.0.0",
   "type": "module",
-  "bin": "npx.cjs",
+  "bin": "bin.cjs",
+  "preferUnplugged": true,
   "dependencies": {
     "@swc/core": "latest",
     "@swc/helpers": "latest",
